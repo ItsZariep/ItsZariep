@@ -1,0 +1,11 @@
+# GIMP gimp-vector-tool options
+
+(foreground
+    (color "R'G'B'A u8" 4 "\367\271\271\377" 0))
+(brush "2. Hardness 100")
+(dynamics "Velocity Tapering")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Web")
+
+# end of gimp-vector-tool options

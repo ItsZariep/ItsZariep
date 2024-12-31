@@ -1,0 +1,17 @@
+#!/bin/sh
+v=${2}
+n=$(pamixer --get-volume)
+s="-r 666 -i . -h int:value:${n}"
+vn(){ notify-send $s "Volume: ${n}%"; }
+vmn(){ [ "$(pamixer --get-mute)" == "true" ] && notify-send $s "Volume: ${n}% (Muted)" || vn; }
+i(){ pamixer -i "$v" && vn; }
+d(){ pamixer -d "$v" && vn; }
+m(){ pamixer -t && vmn; }
+h(){ echo"voltify:
+-m: Mute
+-i [N]: Increase
+-d [D]: Decrease
+"
+}
+if [ "$1" == "-m" ]; then :; elif [ -z "$2" ]; then h; exit; fi
+case "$1" in -i) i;; -d) d;; -m) m;; -h) h;; esac

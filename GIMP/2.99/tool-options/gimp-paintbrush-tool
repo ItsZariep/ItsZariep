@@ -1,0 +1,13 @@
+# GIMP gimp-paintbrush-tool options
+
+(foreground
+    (color "R'G'B'A u8" 4 "\367\271\271\377" 0))
+(brush "2. Hardness 100")
+(dynamics "Velocity Tapering")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Web")
+(brush-size 12)
+(dynamics-enabled no)
+
+# end of gimp-paintbrush-tool options
