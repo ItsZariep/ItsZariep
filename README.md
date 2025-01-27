@@ -20,7 +20,7 @@
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=itszariep&hide_stroke=true&hide_border=true&hide=forks,prs,issues&bg_color=1a1a1a&title_color=91a666&text_color=a6a6a6&icon_color=91a666)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itszariep&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzselenux&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itszariep&theme=dark)
 
 ## WebPage
   <a href="https://itzselenux.github.io">itzariep.github.io</a> is my folder webpage
