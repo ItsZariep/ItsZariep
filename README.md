@@ -25,4 +25,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itszariep&theme=dark)
 
 ## WebPage
-  <a href="https://itzselenux.github.io">itzariep.github.io</a> is my folder webpage
+  <a href="https://itszariep.codeberg.page">itszariep.codeberg.page</a> is my folder webpage
