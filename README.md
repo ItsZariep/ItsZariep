@@ -12,12 +12,13 @@
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
 ![Bash](https://img.shields.io/badge/-1572B6?style=flat-square&logo=gnubash&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/-527999?style=flat-square&logo=gtk&logoColor=fff)
+![QT6](https://img.shields.io/badge/-41CD52?style=flat-square&logo=qt&logoColor=fff)
 
 
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-efda4e?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![CSS](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css&logoColor=fff)
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=itszariep&hide_stroke=true&hide_border=true&hide=forks,prs,issues&bg_color=1a1a1a&title_color=91a666&text_color=a6a6a6&icon_color=91a666)
 
