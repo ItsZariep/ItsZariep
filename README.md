@@ -25,6 +25,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itszariep&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itszariep&theme=dark)
 
-## WebPage
-  <a href="https://itszariep.codeberg.page">itszariep.codeberg.page</a>: My portfolio
-   <a href="https://itszariep.github.io">itszariep.github.io</a>: My blog (spanish)
+## Web pages
+- [itszariep.codeberg.page](https://itszariep.codeberg.page): My portfolio
+- [itszariep.github.io](https://itszariep.github.io): My blog (spanish)
