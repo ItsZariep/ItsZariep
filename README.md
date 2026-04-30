@@ -1,6 +1,7 @@
 <img width="66%" src="https://raw.githubusercontent.com/ItsZariep/ItsZariep/main/propic/itszarieptext.webp">
 
 ### Hi, im ItsZariep🦆
+[![LiberaPay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/zariep/donate) <a href='https://ko-fi.com/C0C1MBGAV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 [![Codeberg](https://img.shields.io/badge/Now%20I'M%20On%20Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=fff)](https://codeberg.org/itszariep)
 
